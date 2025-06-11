@@ -1,5 +1,3 @@
-package DSA_Problems.arrays;
-
 class Min_Max {
 
     static class Pair {

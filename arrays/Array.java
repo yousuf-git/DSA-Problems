@@ -1,5 +1,3 @@
-package DSA_Problems.arrays;
-
 public class Array {
     public static void printArray(int[] array) {
         if (array.length == 0) {

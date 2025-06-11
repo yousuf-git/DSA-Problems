@@ -1,5 +1,3 @@
-package DSA_Problems.arrays;
-
 public class Max_Sub_Array {
     public static void main(String[] args) {
         int[] array = { 1, 2, 3, 4, 9, -1 };
